@@ -1,0 +1,13 @@
+{
+  "description": "vae+",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wxc21b6cb163975a44",
+  "projectname": "wepy-vae",
+  "miniprogramRoot": "./dist"
+}
